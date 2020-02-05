@@ -1,0 +1,2 @@
+If you closed the connect4 game by using the 'quit game' button, then the program isn't actually closed.
+You have to force close it using task manager.
