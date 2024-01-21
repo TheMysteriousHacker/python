@@ -1,0 +1,32 @@
+﻿<html>
+<head>
+<title>lol hack</title>
+<style type="text/css">
+.auto-style1 {
+	text-align: center;
+}
+.auto-style2 {
+	text-align: center;
+	color: #FF0000;
+}
+.auto-style3 {
+	text-align: center;
+	color: #000000;
+}
+.auto-style4 {
+	text-align: center;
+	color: #FF00FF;
+}
+</style>
+</head>
+<body style="background-color: #FFFF00; height: 200px;">
+<h1 class="auto-style1">&nbsp;</h1>
+<p class="auto-style1">&nbsp;</p>
+<p class="auto-style1">&nbsp;</p>
+<p class="auto-style1">&nbsp;</p>
+<h1 class="auto-style3">LOL</h1>
+<p class="auto-style2">ur computer got hacked</p>
+<p class="auto-style4">u have a virus now</p>
+<p class="auto-style4">jk, Python is still running in the background</p>
+</body>
+</html>
